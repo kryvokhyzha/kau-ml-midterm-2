@@ -1,6 +1,6 @@
 # kau-ml-midterm-2
-**Author:** Roman Kryvokhyzha
-**Dataset:** Pump It Up Challenge: Driven Data [kaggle](https://www.kaggle.com/sumeetsawant/pump-it-up-challenge-driven-data) [drivendata](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/25/)
+**Author:** Roman Kryvokhyzha<br>
+**Dataset:** Pump It Up Challenge: Driven Data [[kaggle](https://www.kaggle.com/sumeetsawant/pump-it-up-challenge-driven-data) | [drivendata](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/25/)]
 
 ## Dataset description
 Your goal is to predict the operating condition of a waterpoint for each record in the dataset. You are provided the following set of information about the waterpoints:
