@@ -2,6 +2,10 @@
 **Author:** Roman Kryvokhyzha<br>
 **Dataset:** Pump It Up Challenge: Driven Data [[kaggle](https://www.kaggle.com/sumeetsawant/pump-it-up-challenge-driven-data) | [drivendata](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/25/)]
 
+## Challenge Summary
+**Can you predict which water pumps are faulty?**<br>
+Using data from Taarifa and the Tanzanian Ministry of Water, can you predict which pumps are functional, which need some repairs, and which don't work at all? This is an intermediate-level practice competition. Predict one of these three classes based on a number of variables about what kind of pump is operating, when it was installed, and how it is managed. A smart understanding of which waterpoints will fail can improve maintenance operations and ensure that clean, potable water is available to communities across Tanzania.
+
 ## Dataset description
 Your goal is to predict the operating condition of a waterpoint for each record in the dataset. You are provided the following set of information about the waterpoints:
 
@@ -14,7 +18,7 @@ Your goal is to predict the operating condition of a waterpoint for each record 
 + `longitude` - GPS coordinate
 + `latitude` - GPS coordinate
 + `wpt_name` - Name of the waterpoint if there is one
-+ `num_private` -
++ `num_private` - **<span style="color: red">Description is empty</span>**
 + `basin` - Geographic water basin
 + `subvillage` - Geographic location
 + `region` - Geographic location
