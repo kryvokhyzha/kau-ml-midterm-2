@@ -56,6 +56,10 @@ The labels in this dataset are simple. There are three possible values:
 + `functional needs repair` - the waterpoint is operational, but needs repairs
 + `non functional` - the waterpoint is not operational
 
+## Evaluation
+The metric used for this competition is the classification rate, which calculates the percentage of rows where the predicted class __*y_hat*__ in the submission matches the actual class __*y*__ in the rest test set.
+The maximum is 1 and the minimum is 0. THe goal is to maximize the classification rate.
+
 ## Problem
 + Choose any dataset for multiclass classification on [Kaggle](https://www.kaggle.com/) (go to "Datasets" section, choose "Filter" and enter "multiclass classification" into the "Tags" field). 
 + Perform classification with few methods. I expect you to use at least SVM (linear and rbf) and random forest.
