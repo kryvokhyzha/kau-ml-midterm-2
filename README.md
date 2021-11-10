@@ -1,4 +1,4 @@
-# kau-ml-midterm-2
+# pump-it-up-challenge-solution _(kau-ml-midterm-2)_
 **Author:** Roman Kryvokhyzha<br>
 **Dataset:** Pump It Up Challenge: Driven Data [[kaggle](https://www.kaggle.com/sumeetsawant/pump-it-up-challenge-driven-data) | [drivendata](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/25/)]
 
