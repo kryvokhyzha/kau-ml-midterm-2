@@ -18,7 +18,7 @@ Your goal is to predict the operating condition of a waterpoint for each record 
 + `longitude` - GPS coordinate
 + `latitude` - GPS coordinate
 + `wpt_name` - Name of the waterpoint if there is one
-+ `num_private` - **<span style="color: red">Description is empty</span>**
++ `num_private` - Is it private
 + `basin` - Geographic water basin
 + `subvillage` - Geographic location
 + `region` - Geographic location
