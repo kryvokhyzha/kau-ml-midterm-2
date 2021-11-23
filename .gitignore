@@ -133,3 +133,6 @@ dmypy.json
 
 # temp and examples
 examples
+
+# output files
+/output/model/*.pkl
