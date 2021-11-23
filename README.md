@@ -58,7 +58,7 @@ The labels in this dataset are simple. There are three possible values:
 
 ## Evaluation
 The metric used for this competition is the classification rate, which calculates the percentage of rows where the predicted class __*y_hat*__ in the submission matches the actual class __*y*__ in the rest test set.
-The maximum is 1 and the minimum is 0. THe goal is to maximize the classification rate.
+The maximum is 1 and the minimum is 0. The goal is to maximize the classification rate.
 
 ## Problem
 + Choose any dataset for multiclass classification on [Kaggle](https://www.kaggle.com/) (go to "Datasets" section, choose "Filter" and enter "multiclass classification" into the "Tags" field). 
